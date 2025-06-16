@@ -1,2 +1,6 @@
 # Jornada_da_Soja.
-Em "Jornada da Soja", você gerencia a produção de soja do campo à venda. Colha, transporte e negocie para maximizar seu lucro. Uma aventura cativante no agronegócio!
+Jogue e Gerencie sua Safra!
+
+Em "Jornada da Soja", você gerencia cada etapa da produção de soja. Comece na colheita, onde sua máquina trabalha para encher os sacos. Depois, inicie a viagem com seu caminhão, gerenciando o combustível e a distância. Ao chegar na cidade, o desafio é negociar o melhor preço para sua soja com os compradores.
+
+Cada fase exige atenção e estratégia para maximizar seu lucro e garantir que sua colheita seja um sucesso! Prepare-se para colher, transportar e vender rumo à vitória!
